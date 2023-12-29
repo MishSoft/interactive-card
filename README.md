@@ -24,7 +24,7 @@ This is a simple React application that demonstrates an interactive card compone
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/interactive-card-app.git
+   git clone https://github.com/your-username/interactive-card.git
 Navigate to the project directory:
 
 bash
